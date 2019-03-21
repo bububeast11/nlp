@@ -9887,10 +9887,10 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
-  .member {
-    font-size: 35px;
-    font-weight: bold;
-    color: #120b60;
-    font-family: Times, "Times New Roman", serif;
+ .member {
+  font-size: 35px;
+  font-weight: bold;
+  color: #37282b;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 /*# sourceMappingURL=bootstrap.css.map */
