@@ -9886,4 +9886,10 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
+
+  .member {
+    font-size: 10px;
+    font-weight: bold;
+    color: blue;
+}
 /*# sourceMappingURL=bootstrap.css.map */
